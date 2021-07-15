@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf Data/variance_files/rename_imp.vcf.gz
+	--keep output/taj_d/../Processed_subsets/Central_subset_samples.csv
+	--out output/taj_d/Central
+	--TajimaD 10000
+
+Using zlib version: 1.2.11
+Keeping individuals in 'keep' list
+After filtering, kept 67 out of 461 Individuals
+Outputting Tajima's D Statistic...
+After filtering, kept 818202 out of a possible 818202 Sites
+Run Time = 39.00 seconds

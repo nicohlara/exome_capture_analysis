@@ -1,0 +1,20 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf Data/variance_files/rename_imp.vcf.gz
+	--weir-fst-pop Processed_subsets/PNWSpring_subset_samples.csv
+	--weir-fst-pop Processed_subsets/East_subset_samples.csv
+	--keep Processed_subsets/PNWSpring_subset_samples.csv
+	--keep Processed_subsets/East_subset_samples.csv
+	--out fst/PNWSpring_East
+
+Using zlib version: 1.2.11
+Keeping individuals in 'keep' list
+After filtering, kept 130 out of 461 Individuals
+Outputting Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.039236
+Weir and Cockerham weighted Fst estimate: 0.095698
+After filtering, kept 818202 out of a possible 818202 Sites
+Run Time = 41.00 seconds
